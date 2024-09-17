@@ -1,6 +1,6 @@
   <header>
         <h1>Renilson José da Silva Santos</h1>
-        <p>Estudante de Sistemas de Informação apaixonado por programação e desenvolvimento web.</p>
+        <p>Estudante de Sistemas de Informação com interesse em programação e desenvolvimento web.</p>
     </header>
 
    <section class="contato">
