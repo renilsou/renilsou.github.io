@@ -4,9 +4,9 @@
     </header>
 
    <section class="contato">
-        <img src="" alt="Sua Foto">
+        <img src="imgs/foto_perfil.jpg" alt="Sua Foto" width=150 height=200>
         <p>
-            <a href="mailto:seu_email@email.com">Endereço de email</a> |
+            <a href="mailto:renilson12504@gmail.com">E-mail</a> |
             <a href="https://www.linkedin.com/in/renilsou/">LinkedIn</a>
         </p>
     </section>
